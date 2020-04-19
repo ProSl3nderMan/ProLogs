@@ -1,0 +1,5 @@
+name: ProLogs
+version: ${project.version}
+main: me.prosl3nderman.prologs.ProLogs
+authors: [ProSl3nderMan]
+description: Retrieves latest chat messages from specific users
